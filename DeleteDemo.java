@@ -1,0 +1,10 @@
+package jdbcex;
+
+public class DeleteDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
